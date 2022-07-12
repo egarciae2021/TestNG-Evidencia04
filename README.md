@@ -1,3 +1,3 @@
-# xlschool-course-qa-web-automation
-This is the repository that contains the code shown for the QA XL School Web automation course.
+# Testing -> TestNG- Evidencia04
+En este repositorio se encuentra las clases creadas para las pruebas utilizando Selenium Chrome Driver y TestNG , como herramienta de desarrollo es intellij-
 
